@@ -25,7 +25,7 @@ python calibrate.py
 ```bash
 python main.py
 ```
-点击这里观看视频](https://github.com/lyz678/Gesture-recognition-awr1642boost-raspberrypi4b/blob/main/models/%E5%BD%95%E5%B1%8F%202024-12-27%2021-16-12.mp4)
+点击这里观看视频](https://github.com/lyz678/radar_camera_fusion_awr1642_yolov5lite/blob/main/cfg/%E5%BD%95%E5%B1%8F%202024-12-19%2017-10-22.mp4)
 
 # 在raspberrypi4b上运行
 

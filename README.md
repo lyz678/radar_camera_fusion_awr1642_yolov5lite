@@ -17,6 +17,8 @@
 ```bash
 python calibrate.py
 ```
+![Image text](https://github.com/lyz678/radar_camera_fusion_awr1642_yolov5lite/blob/main/imgs/1.jpeg)
+
 - 用得到的标定结果替换main.py中的camera_intrinsic_matrix，distortion_coefficients
   
 

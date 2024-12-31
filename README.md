@@ -1,6 +1,6 @@
 从awr1642中获取毫米波雷达点云数据，将其投影到图像平面，与yolov5lite目标检测框进行匹配，实现对目标的测距测速测角。算法易于部署到raspberrypi4b上，实现实时的目标检测。
 
-![Image text](https://www.ti.com/content/dam/ticom/images/products/ic/sensing-products/evm-boards/awr1642boost-top.png)
+![Image text](https://github.com/lyz678/radar_camera_fusion_awr1642_yolov5lite/blob/main/cfg/radar_camera.gif)
 
 # 环境依赖
 - onnx
@@ -25,7 +25,6 @@ python calibrate.py
 ```bash
 python main.py
 ```
-点击这里观看视频](https://github.com/lyz678/radar_camera_fusion_awr1642_yolov5lite/blob/main/cfg/%E5%BD%95%E5%B1%8F%202024-12-19%2017-10-22.mp4)
 
 # 在raspberrypi4b上运行
 

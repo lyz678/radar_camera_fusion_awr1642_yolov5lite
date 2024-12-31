@@ -40,7 +40,7 @@ python main.py
 - https://github.com/ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2
   
 # yolov5lite推理参考
-- [https://github.com/vilari-mickopf/mmwave-gesture-recognition](https://github.com/ppogg/YOLOv5-Lite)
+- https://github.com/ppogg/YOLOv5-Lite
 
 
 

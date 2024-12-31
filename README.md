@@ -27,6 +27,7 @@ python calibrate.py
 ```bash
 python main.py
 ```
+![Image text](https://github.com/lyz678/radar_camera_fusion_awr1642_yolov5lite/blob/main/cfg/radar_camera.png)
 
 # 在raspberrypi4b上运行
 

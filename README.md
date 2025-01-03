@@ -1,3 +1,4 @@
+# radar_camera_fusion_awr1642_yolov5lite
 从awr1642中获取毫米波雷达点云数据，将其投影到图像平面，与yolov5lite目标检测框进行匹配，实现对目标的测距测速测角。算法易于部署到raspberrypi4b上，实现实时的目标检测。
 
 ![Image text](https://github.com/lyz678/radar_camera_fusion_awr1642_yolov5lite/blob/main/cfg/radar_camera.gif)
